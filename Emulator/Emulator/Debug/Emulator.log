@@ -1,0 +1,71 @@
+﻿  Emulator.cpp
+C:\Users\vince\OneDrive\emulator\Emulator\Emulator\Emulator.cpp(464,27): warning C4244: '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+C:\Users\vince\OneDrive\emulator\Emulator\Emulator\Emulator.cpp(539,27): warning C4244: '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+C:\Users\vince\OneDrive\emulator\Emulator\Emulator\Emulator.cpp(547,27): warning C4244: '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+C:\Users\vince\OneDrive\emulator\Emulator\Emulator\Emulator.cpp(555,27): warning C4244: '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+C:\Users\vince\OneDrive\emulator\Emulator\Emulator\Emulator.cpp(563,27): warning C4244: '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+C:\Users\vince\OneDrive\emulator\Emulator\Emulator\Emulator.cpp(571,27): warning C4244: '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+C:\Users\vince\OneDrive\emulator\Emulator\Emulator\Emulator.cpp(579,27): warning C4244: '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+C:\Users\vince\OneDrive\emulator\Emulator\Emulator\Emulator.cpp(628,30): warning C4244: '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+C:\Users\vince\OneDrive\emulator\Emulator\Emulator\Emulator.cpp(880,22): warning C4244: 'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+C:\Users\vince\OneDrive\emulator\Emulator\Emulator\Emulator.cpp(880,14): warning C4244: 'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+C:\Users\vince\OneDrive\emulator\Emulator\Emulator\Emulator.cpp(895,22): warning C4244: 'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+C:\Users\vince\OneDrive\emulator\Emulator\Emulator\Emulator.cpp(895,14): warning C4244: 'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+C:\Users\vince\OneDrive\emulator\Emulator\Emulator\Emulator.cpp(910,22): warning C4244: 'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+C:\Users\vince\OneDrive\emulator\Emulator\Emulator\Emulator.cpp(910,14): warning C4244: 'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+C:\Users\vince\OneDrive\emulator\Emulator\Emulator\Emulator.cpp(925,22): warning C4244: 'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+C:\Users\vince\OneDrive\emulator\Emulator\Emulator\Emulator.cpp(925,14): warning C4244: 'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+C:\Users\vince\OneDrive\emulator\Emulator\Emulator\Emulator.cpp(940,22): warning C4244: 'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+C:\Users\vince\OneDrive\emulator\Emulator\Emulator\Emulator.cpp(940,14): warning C4244: 'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+C:\Users\vince\OneDrive\emulator\Emulator\Emulator\Emulator.cpp(955,22): warning C4244: 'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+C:\Users\vince\OneDrive\emulator\Emulator\Emulator\Emulator.cpp(955,14): warning C4244: 'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+C:\Users\vince\OneDrive\emulator\Emulator\Emulator\Emulator.cpp(970,22): warning C4244: 'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+C:\Users\vince\OneDrive\emulator\Emulator\Emulator\Emulator.cpp(970,14): warning C4244: 'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+C:\Users\vince\OneDrive\emulator\Emulator\Emulator\Emulator.cpp(1225,11): warning C4552: '+': result of expression not used
+C:\Users\vince\OneDrive\emulator\Emulator\Emulator\Emulator.cpp(1757,14): warning C4244: 'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+C:\Users\vince\OneDrive\emulator\Emulator\Emulator\Emulator.cpp(1768,14): warning C4244: 'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+C:\Users\vince\OneDrive\emulator\Emulator\Emulator\Emulator.cpp(1826,14): warning C4244: 'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+C:\Users\vince\OneDrive\emulator\Emulator\Emulator\Emulator.cpp(1827,14): warning C4244: 'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+C:\Users\vince\OneDrive\emulator\Emulator\Emulator\Emulator.cpp(1832,14): warning C4244: 'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+C:\Users\vince\OneDrive\emulator\Emulator\Emulator\Emulator.cpp(1833,14): warning C4244: 'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+C:\Users\vince\OneDrive\emulator\Emulator\Emulator\Emulator.cpp(1838,14): warning C4244: 'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+C:\Users\vince\OneDrive\emulator\Emulator\Emulator\Emulator.cpp(1839,14): warning C4244: 'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+C:\Users\vince\OneDrive\emulator\Emulator\Emulator\Emulator.cpp(1844,14): warning C4244: 'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+C:\Users\vince\OneDrive\emulator\Emulator\Emulator\Emulator.cpp(1845,14): warning C4244: 'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+C:\Users\vince\OneDrive\emulator\Emulator\Emulator\Emulator.cpp(1850,14): warning C4244: 'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+C:\Users\vince\OneDrive\emulator\Emulator\Emulator\Emulator.cpp(1851,14): warning C4244: 'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+C:\Users\vince\OneDrive\emulator\Emulator\Emulator\Emulator.cpp(1856,14): warning C4244: 'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+C:\Users\vince\OneDrive\emulator\Emulator\Emulator\Emulator.cpp(1857,14): warning C4244: 'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+C:\Users\vince\OneDrive\emulator\Emulator\Emulator\Emulator.cpp(1862,14): warning C4244: 'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+C:\Users\vince\OneDrive\emulator\Emulator\Emulator\Emulator.cpp(1863,14): warning C4244: 'argument': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+C:\Users\vince\OneDrive\emulator\Emulator\Emulator\Emulator.cpp(2594,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\vince\OneDrive\emulator\Emulator\Emulator\Emulator.cpp(2608,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\vince\OneDrive\emulator\Emulator\Emulator\Emulator.cpp(2677,19): warning C4244: '=': conversion from '_TCHAR' to 'char', possible loss of data
+C:\Users\vince\OneDrive\emulator\Emulator\Emulator\Emulator.cpp(2686,20): warning C4244: '=': conversion from '_TCHAR' to 'char', possible loss of data
+C:\Users\vince\OneDrive\emulator\Emulator\Emulator\Emulator.cpp(2768,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\vince\OneDrive\emulator\Emulator\Emulator\Emulator.cpp(2774,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : see declaration of 'sscanf'
+C:\Users\vince\OneDrive\emulator\Emulator\Emulator\Emulator.cpp(2777,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : see declaration of 'sscanf'
+C:\Users\vince\OneDrive\emulator\Emulator\Emulator\Emulator.cpp(2805,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+C:\Users\vince\OneDrive\emulator\Emulator\Emulator\Emulator.cpp(2844,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+C:\Users\vince\OneDrive\emulator\Emulator\Emulator\Emulator.cpp(2854,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : see declaration of 'sscanf'
+C:\Users\vince\OneDrive\emulator\Emulator\Emulator\Emulator.cpp(2859,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : see declaration of 'sscanf'
+C:\Users\vince\OneDrive\emulator\Emulator\Emulator\Emulator.cpp(2902,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : see declaration of 'sscanf'
+C:\Users\vince\OneDrive\emulator\Emulator\Emulator\Emulator.cpp(2905,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : see declaration of 'sscanf'
+C:\Users\vince\OneDrive\emulator\Emulator\Emulator\Emulator.cpp(2931,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+C:\Users\vince\OneDrive\emulator\Emulator\Emulator\Emulator.cpp(2975,1): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winsock2.h(1831): message : see declaration of 'inet_addr'
+C:\Users\vince\OneDrive\emulator\Emulator\Emulator\Emulator.cpp(2980,1): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winsock2.h(1831): message : see declaration of 'inet_addr'
+  Emulator.vcxproj -> C:\Users\vince\OneDrive\emulator\Emulator\Debug\Emulator.exe
